@@ -1,6 +1,10 @@
 # ObserverPython
 Design Pattern
 
+
+Link para Slides contendo dados sobre Strategy/Observer e referências bibliográficas: https://www.canva.com/design/DAGIZgnAwh4/EGtAbiAcaG7F-ov4zxax7g/edit?utm_content=DAGIZgnAwh4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 # Implementação do Padrão Observer em Python
 
 Este repositório contém uma implementação simples, mas abrangente, do padrão de projeto Observer em Python. O padrão Observer é um padrão de design comportamental que permite que um objeto (referido como sujeito) notifique outros objetos (observadores) sobre mudanças em seu estado sem estar fortemente acoplado a eles. Este exemplo demonstra como criar um sistema onde vários observadores podem se inscrever e receber atualizações de um único sujeito.
